@@ -1,0 +1,10 @@
+jedi
+sith
+mortal_combat
+wizard
+transformers
+orcs
+droids
+navi
+clones
+wookiee
